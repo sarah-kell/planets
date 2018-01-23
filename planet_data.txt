@@ -1,2 +1,3 @@
 planet size color
 jupiter big redspot 
+This repo contains data on planets
